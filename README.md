@@ -1,5 +1,5 @@
 # Login_Nodejs_Backend
-Backend de un login creado con Nodejs, Mysql y Ts.
+Backend de un login creado con Nodejs, TypeScript y Mysql.
 
 Instalar módulos con el siguiente comando: 
 -npm install
